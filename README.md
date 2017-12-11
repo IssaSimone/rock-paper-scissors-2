@@ -1,1 +1,1 @@
-# rock-paper-scissors-2
+# Advanced RPS Master
